@@ -1,7 +1,7 @@
 # SNSGenic Psychopathalogy
 Technologies: Python, PRAW, Scikit learn, Gensim, Stanford Core NLP, Mysql
 
-###Introduction
+### Introduction
 
   In recent years, Social Media has prominently emerged as a constantly available ubiquitous source of information, advice and support. Although, many studies suggest plenty of evidence indicating towards a positive, a non-existent, or even a negative relationship between Social Media use and mental issues like social comparison, envy, anxiety, depression, sleeplessness etc. In Social Networking Sites, social comparison is ubiquitous because of comparison information (e.g. no. of likes, friend count, friend activity). Self presentation on these sites is motivated by making impression on others and are the reasons of envy. Most studies relating to Social Networking Sites conceptualize envy or negative social comparisons as causal factors of depression, the lack of self-esteem and the tendency to compare themselves negatively with others as factors associated with depression among users.
 Additionally, many other issues are also related to excessive use of social media for ex. sleeplessness. Individuals active on Social Networking Sites usually spend time on it before going to sleep which disturbs their sleep cycle.
